@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ABDESSADEQSaidElIslam
 - 👀 I’m interested in digital marketing and computer stuff
 - 🌱 I’m currently learning C#, HTML and CSS
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me:
+    Discord: -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: An adult lion’s roar can be heard up to five miles away.
 
